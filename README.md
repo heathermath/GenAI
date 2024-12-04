@@ -1,3 +1,3 @@
 # GenAI
 
-https://ose-hackathon-2024.streamlit.app/
+Varun's Streamlit app is here: https://ose-hackathon-2024.streamlit.app/
